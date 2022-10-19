@@ -1,6 +1,5 @@
 {
     "LocaleName": "de",
-    "TranslationAuthor": "Johannes Baschin",
     "MonthsOfYear": [
         "Jan.",
         "Febr.",
@@ -23,15 +22,6 @@
         "Fr.",
         "Sa.",
         "So."
-    ],
-    "LongDaysOfWeek": [
-        "Montag",
-        "Dienstag",
-        "Mittwoch",
-        "Donnerstag",
-        "Freitag",
-        "Samstag",
-        "Sonntag"
     ],
     "Strings": {
         "Username": "Benutzername",
@@ -285,7 +275,6 @@
         "Upgrading this instance may take up to 5 minutes. You will not be able to log into any instances that depend on this ADS instance.": "Die Aktualisierung dieser Instanz kann bis zu 5 Minuten dauern. Sie können sich nicht bei Instanzen anmelden, die von dieser ADS-Instanz abhängen.",
         "Keep Running": "Instanz gestartet lassen",
         "Upgrade Now": "Jetzt aktualisieren",
-        "SomeFile.json": "EineDatei.json",
         "UDP": "UDP",
         "Both": "Beide",
         "TCP": "TCP",
@@ -299,8 +288,6 @@
         "Restart Now": "Jetzt neustarten",
         "Create new role": "Neue Rolle erstellen",
         "Are you sure you wish to delete this role? This operation cannot be undone.": "Bist du sicher, dass du die Rolle löschen möchtest?Diese Aktion kann nicht rückgängig gemacht werden",
-        "AMP Release \"Halimede\"": "AMP Release \"Halimede\"",
-        "v2.4.0.8, built 10/10/2022 21:18": "v2.4.0.8, Build 10/10/2022 21:18",
         "Unable to update user.": "Fehler beim aktualisieren des Benutzers",
         "Password change failed": "Passwort Änderung fehlgeschlagen",
         "Cannot manage this instance": "Du kannst die Instanz nicht verwalten",
