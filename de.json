@@ -273,7 +273,7 @@
         "Upgrade this AMP instance": "Aktualisierung dieser AMP-Instanz",
         "Confirm Upgrade": "Aktualisierung bestätigen",
         "Upgrading this instance may take up to 5 minutes. You will not be able to log into any instances that depend on this ADS instance.": "Die Aktualisierung dieser Instanz kann bis zu 5 Minuten dauern. Du kannst dich nicht bei anderen Instanzen anmelden, die von dieser ADS-Instanz abhängen.",
-        "Keep Running": "Instanz gestartet lassen",
+        "Keep Running": "Nichts unternehmen",
         "Upgrade Now": "Jetzt aktualisieren",
         "UDP": "UDP",
         "Both": "Beide",
@@ -671,7 +671,8 @@
         "Propagate auth server to targets": "Verteilen Sie den Authentifizierungsserver an die Ziele",
         "If enabled, the Default Auth Server URL will be copied to all targets when they are added to ADS": "Wenn aktiviert, wird die Standard-Authentifizierungsserver-URL in alle Ziele kopiert, wenn sie zu ADS hinzugefügt werden",
         "The maximum number of instances that may exist within this ADS target": "Die maximale Anzahl von Instanzen, die innerhalb dieses ADS-Ziels existieren dürfen",
-        "The maximum amount of disk space (uncompressed) to allow for a single backup": "Der maximale Festplattenspeicherplatz (unkomprimiert), der für eine einzelne Sicherung zur Verfügung steht"
+        "The maximum amount of disk space (uncompressed) to allow for a single backup": "Der maximale Festplattenspeicherplatz (unkomprimiert), der für eine einzelne Sicherung zur Verfügung steht",
+        "Restarting this instance may take up to a minute. You will not be able to log into any instances that depend on this ADS instance.": "Der Neustart dieser Instanz kann bis zu einer Minute dauern. Du kannst dich nicht bei anderen Instanzen anmelden, die von dieser ADS-Instanz abhängen."
     },
     "LongDaysOfWeeek": [
         "Montag",
