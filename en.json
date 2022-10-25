@@ -652,6 +652,13 @@
         "Performance and Limits":"Performance and Limits",
         "Security and Privacy":"Security and Privacy",
         "SteamCMD and Updates":"SteamCMD and Updates",
-        "Restarting this instance may take up to a minute. You will not be able to log into any instances that depend on this ADS instance.":"Restarting this instance may take up to a minute. You will not be able to log into any instances that depend on this ADS instance."
+        "Restarting this instance may take up to a minute. You will not be able to log into any instances that depend on this ADS instance.":"Restarting this instance may take up to a minute. You will not be able to log into any instances that depend on this ADS instance.",
+        "Dismiss":"Verwerfen",
+        "Local":"Local",
+        "Downloading file":"Downloading file",
+        "Unknown":"Unknown",
+        "Unlimited":"Unlimited",
+        "Default Datastore":"Default Datastore",
+        "The standard location for AMP instances, and where the ADS instance will be stored. This datastore cannot be deleted.":"The standard location for AMP instances, and where the ADS instance will be stored. This datastore cannot be deleted."
     }
 }
