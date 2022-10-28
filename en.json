@@ -660,6 +660,7 @@
         "Unlimited":"Unlimited",
         "Default Datastore":"Default Datastore",
         "The standard location for AMP instances, and where the ADS instance will be stored. This datastore cannot be deleted.":"The standard location for AMP instances, and where the ADS instance will be stored. This datastore cannot be deleted.",
-        "recommended":"recommended"
+        "recommended":"recommended",
+        "This application may have extra requirements or dependencies that are not satisfied by the host system.":"This application may have extra requirements or dependencies that are not satisfied by the host system."
     }
 }
