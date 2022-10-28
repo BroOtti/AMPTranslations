@@ -679,7 +679,8 @@
         "Default Datastore": "Standard-Datenspeicher",
         "The standard location for AMP instances, and where the ADS instance will be stored. This datastore cannot be deleted.": "Der Standardspeicherort für AMP-Instanzen und der Ort, an dem die ADS-Instanz gespeichert wird. Dieser Datenspeicher kann nicht gelöscht werden.",
         "Dismiss": "Verwerfen",
-        "Downloading file": "Herunterladen der Datei"
+        "Downloading file": "Herunterladen der Datei",
+        "recommended": "empfohlen"
     },
     "LongDaysOfWeeek": [
         "Montag",
